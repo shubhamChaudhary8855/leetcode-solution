@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3536-maximum-product-of-two-digits](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0278-first-bad-version) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
