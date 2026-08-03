@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
