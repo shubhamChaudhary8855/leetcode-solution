@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
