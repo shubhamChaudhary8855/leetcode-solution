@@ -177,6 +177,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](./0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
@@ -217,6 +218,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
