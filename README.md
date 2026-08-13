@@ -173,6 +173,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
@@ -186,6 +187,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](./0283-move-zeroes) |
 ## Math
 |  |
