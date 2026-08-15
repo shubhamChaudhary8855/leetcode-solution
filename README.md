@@ -177,6 +177,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](./0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
@@ -192,6 +193,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
@@ -204,12 +206,14 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](./0278-first-bad-version) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
 ## Interactive
@@ -220,6 +224,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
@@ -245,6 +250,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
