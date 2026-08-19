@@ -205,6 +205,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0709-to-lower-case) |
 ## Bit Manipulation
@@ -255,6 +256,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
 ## Divide and Conquer
 |  |
@@ -277,4 +279,12 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
