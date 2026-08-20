@@ -190,6 +190,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](./0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
 ## Math
@@ -204,6 +205,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
