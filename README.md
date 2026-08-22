@@ -179,6 +179,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](./0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
@@ -192,6 +193,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](./0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -214,6 +216,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
@@ -222,6 +225,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](./0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
 ## Interactive
 |  |
@@ -289,4 +293,12 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
