@@ -187,6 +187,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
+| [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +286,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Queue
 |  |
 | ------- |
