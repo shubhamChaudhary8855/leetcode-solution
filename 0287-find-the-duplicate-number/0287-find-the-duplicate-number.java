@@ -3,7 +3,9 @@ class Solution {
        int[] freq = new int[nums.length];
        for(int i=0;i<nums.length;i++){
         freq[nums[i]]++;
-        if(freq[nums[i]] == 2){
+       }
+       for(int i=0;i<nums.length;i++){
+        if(freq[nums[i]] >= 2){
             return nums[i];
         }
        }
