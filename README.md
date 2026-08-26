@@ -198,6 +198,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0283-move-zeroes](./0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
+| [1768-merge-strings-alternately](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +216,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0709-to-lower-case) |
+| [1768-merge-strings-alternately](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
