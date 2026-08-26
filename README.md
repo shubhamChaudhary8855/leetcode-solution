@@ -173,6 +173,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
@@ -193,6 +194,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](./0283-move-zeroes) |
@@ -311,4 +313,8 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
