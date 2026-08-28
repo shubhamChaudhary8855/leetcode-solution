@@ -176,6 +176,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](./0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
@@ -241,6 +243,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
