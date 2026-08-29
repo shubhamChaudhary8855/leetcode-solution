@@ -207,6 +207,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
@@ -320,4 +321,24 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
