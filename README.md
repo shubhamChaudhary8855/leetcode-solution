@@ -185,6 +185,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -210,6 +211,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](./3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) |
@@ -329,10 +331,12 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -341,4 +345,12 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
