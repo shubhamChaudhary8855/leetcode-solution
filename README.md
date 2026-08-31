@@ -215,6 +215,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](./3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) |
+| [3959-check-good-integer](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3959-check-good-integer) |
 ## String
 |  |
 | ------- |
@@ -301,6 +302,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
+| [3959-check-good-integer](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3959-check-good-integer) |
 ## Queue
 |  |
 | ------- |
