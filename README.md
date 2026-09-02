@@ -177,6 +177,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
@@ -235,6 +236,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0278-first-bad-version](./0278-first-bad-version) |
@@ -355,4 +357,12 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
