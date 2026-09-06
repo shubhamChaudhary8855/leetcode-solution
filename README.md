@@ -224,6 +224,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
@@ -256,6 +257,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
@@ -282,6 +284,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
