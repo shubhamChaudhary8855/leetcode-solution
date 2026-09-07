@@ -230,6 +230,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 | [0709-to-lower-case](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1768-merge-strings-alternately) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
@@ -288,6 +289,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3866-first-unique-even-element](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3866-first-unique-even-element) |
