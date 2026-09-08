@@ -186,6 +186,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -373,6 +374,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
