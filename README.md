@@ -192,6 +192,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
+| [1550-three-consecutive-odds](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1550-three-consecutive-odds) |
 | [1748-sum-of-unique-elements](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
