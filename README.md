@@ -196,6 +196,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [1748-sum-of-unique-elements](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
 | [3866-first-unique-even-element](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -270,6 +271,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
 | [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -298,6 +300,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [1748-sum-of-unique-elements](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3866-first-unique-even-element](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3866-first-unique-even-element) |
@@ -322,6 +325,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3959-check-good-integer) |
 ## Queue
