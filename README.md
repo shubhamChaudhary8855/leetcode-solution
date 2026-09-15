@@ -189,6 +189,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0643-maximum-average-subarray-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
@@ -211,6 +212,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0283-move-zeroes](./0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -271,6 +273,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](./1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
@@ -352,6 +355,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
 ## Brainteaser
 |  |
 | ------- |
@@ -396,4 +400,8 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
