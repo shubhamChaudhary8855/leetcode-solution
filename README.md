@@ -222,6 +222,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
+| [1837-sum-of-digits-in-base-k](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1837-sum-of-digits-in-base-k) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2651-calculate-delayed-arrival-time) |
