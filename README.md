@@ -176,6 +176,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0011-container-with-most-water](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](./0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -312,6 +313,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](./0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Quickselect
@@ -382,6 +384,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
