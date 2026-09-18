@@ -189,6 +189,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0628-maximum-product-of-three-numbers](./0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -261,6 +262,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0278-first-bad-version](./0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
 ## Interactive
 |  |
