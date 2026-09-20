@@ -245,6 +245,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -335,6 +336,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [3498-reverse-degree-of-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3959-check-good-integer) |
 ## Queue
