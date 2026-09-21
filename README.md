@@ -203,6 +203,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
 | [3866-first-unique-even-element](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [0344-reverse-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0344-reverse-string) |
 | [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1768-merge-strings-alternately) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
