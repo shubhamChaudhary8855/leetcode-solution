@@ -202,6 +202,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2784-check-if-array-is-good](./2784-check-if-array-is-good) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3866-first-unique-even-element](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3866-first-unique-even-element) |
 | [3925-concatenate-array-with-reverse](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -233,6 +234,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 | [2651-calculate-delayed-arrival-time](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2651-calculate-delayed-arrival-time) |
 | [3345-smallest-divisible-digit-product-i](./3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](./3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3959-check-good-integer](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3959-check-good-integer) |
 ## String
 |  |
