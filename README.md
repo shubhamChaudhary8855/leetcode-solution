@@ -421,4 +421,8 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0881-boats-to-save-people) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
