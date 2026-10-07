@@ -3,12 +3,12 @@ class Solution {
         int left = 0;
         int sum = 0;
         int maxsum = Integer.MIN_VALUE;
-        for(int right=0;right<nums.length;right++){
-            sum += nums[right];
-            if(right - left + 1 == k){
-               maxsum = Math.max(maxsum , sum);
-               sum -= nums[left];
-               left++;
+        for(int i=0;i<nums.length;i++){
+            sum += nums[i];
+            if(i - left + 1 == k){
+                maxsum = Math.max(maxsum , sum);
+                sum -= nums[left];
+                left++;
             }
         }
         return (double)maxsum/k;
