@@ -223,6 +223,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](./0405-convert-a-number-to-hexadecimal) |
@@ -298,6 +299,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](./1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -342,6 +344,7 @@ My main profile: [Shubham Chaudhary](https://github.com/shubhamChaudhary8855)
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3498-reverse-degree-of-a-string](https://github.com/shubhamChaudhary8855/leetcode-solution/tree/master/3498-reverse-degree-of-a-string) |
